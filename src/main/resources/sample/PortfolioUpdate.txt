@@ -1,0 +1,5 @@
+APPL
+GOOG
+FB
+TSLA
+DIS
